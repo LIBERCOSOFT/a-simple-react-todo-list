@@ -1,0 +1,19 @@
+.style {
+    background: white;
+    color: green;
+    margin: 10px 0px 0px 10px;
+}
+
+.addbtn {
+    background: green;
+    margin: 0px 5px 0px 3px;
+}
+
+.resetbtn {
+    background: red;
+    margin-left: 5px;
+}
+
+.removebtn {
+    background: yellow;
+}
